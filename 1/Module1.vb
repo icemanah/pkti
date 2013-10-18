@@ -10,7 +10,7 @@
     End Sub
 
     Function diskon(h As Double) As Double
-        Console.Write("")
+        Console.Write("Diskon folder 1")
         Console.Write("")
         Console.Write("")
         Console.Write("")
